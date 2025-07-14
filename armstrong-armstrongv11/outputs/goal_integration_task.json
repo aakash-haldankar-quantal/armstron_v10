@@ -1,0 +1,382 @@
+{
+  "personal_information": {
+    "name": "Hari Das",
+    "date_of_birth": "1994-11-17",
+    "year_of_birth": 1994
+  },
+  "family_information": {
+    "spouse_year_of_birth": 1993,
+    "first_child_ahira_year_of_birth": 2019,
+    "second_child_hira_year_of_birth": 2020
+  },
+  "expenses": {
+    "household_expenses_monthly": 110000.0
+  },
+  "assets": [
+    {
+      "type": "provident_fund",
+      "present_value": 628729.0,
+      "monthly_contribution": 25800.0
+    },
+    {
+      "type": "public_provident_fund",
+      "present_value": 451600.0,
+      "monthly_contribution": 3600.0
+    },
+    {
+      "type": "fixed_deposit",
+      "present_value": 300000.0
+    },
+    {
+      "type": "direct_equity",
+      "present_value": 26936.0
+    },
+    {
+      "type": "mutual_funds",
+      "present_value": 525794.0,
+      "monthly_contribution": 5000.0
+    },
+    {
+      "type": "sukanya_education_scheme",
+      "present_value": 400000.0,
+      "monthly_contribution": 2000.0
+    },
+    {
+      "type": "education_scheme",
+      "present_value": 500000.0,
+      "monthly_contribution": 3000.0
+    },
+    {
+      "type": "cash_or_cash_at_bank",
+      "present_value": 277800.0
+    },
+    {
+      "type": "gold_etf",
+      "present_value": 2500.0
+    },
+    {
+      "type": "crypto",
+      "present_value": 50000.0
+    },
+    {
+      "type": "other_investments",
+      "present_value": 250000.0
+    }
+  ],
+  "liabilities": {
+    "loans": [
+      {
+        "type": "car_loan",
+        "outstanding_amount": 213000.0,
+        "interest_rate": 0.12,
+        "emi_amount": 17800.0,
+        "tenure_months": 12,
+        "tenure_end_year": 2024
+      },
+      {
+        "type": "personal_loan",
+        "outstanding_amount": 467150.0,
+        "interest_rate": 0.1,
+        "emi_amount": 24500.0,
+        "tenure_months": 19,
+        "tenure_end_year": 2025
+      }
+    ]
+  },
+  "future_plans": {
+    "coast_retirement": {
+      "time_years": 10,
+      "amount_required_today": 38000000.0,
+      "monthly_contribution": 4000.0,
+      "amount_available_today": 100000.0
+    },
+    "undergraduation_of_first_child": {
+      "time_years": 14,
+      "amount_required_today": 1500000.0,
+      "monthly_contribution": 4000.0,
+      "amount_available_today": 100000.0
+    },
+    "undergraduation_of_second_child": {
+      "time_years": 15,
+      "amount_required_today": 1800000.0,
+      "monthly_contribution": 4000.0,
+      "amount_available_today": 200000.0
+    },
+    "post_graduation_of_first_child": {
+      "time_years": 18,
+      "amount_required_today": 2000000.0,
+      "monthly_contribution": 3000.0,
+      "amount_available_today": 200000.0
+    },
+    "post_graduation_of_second_child": {
+      "time_years": 19,
+      "amount_required_today": 2200000.0,
+      "monthly_contribution": 3000.0,
+      "amount_available_today": 200000.0
+    },
+    "sibling_wedding": {
+      "time_years": 5,
+      "amount_required_today": 1500000.0,
+      "monthly_contribution": 0.0,
+      "amount_available_today": 0.0
+    },
+    "vacations": {
+      "time_years": 1,
+      "amount_required_today": 500000.0,
+      "monthly_contribution": 5000.0,
+      "amount_available_today": 0.0
+    },
+    "car": {
+      "time_years": 4,
+      "amount_required_today": 4500000.0,
+      "monthly_contribution": 0.0,
+      "amount_available_today": 0.0
+    },
+    "electronic_gadget_or_clothes": {
+      "time_years": 1,
+      "amount_required_today": 200000.0,
+      "monthly_contribution": 0.0,
+      "amount_available_today": 0.0
+    },
+    "car_2": {
+      "time_years": 10,
+      "amount_required_today": 10000000.0,
+      "monthly_contribution": 0.0,
+      "amount_available_today": 0.0
+    },
+    "car_3": {
+      "time_years": 12,
+      "amount_required_today": 50000000.0,
+      "monthly_contribution": 0.0,
+      "amount_available_today": 0.0
+    }
+  },
+  "miscellaneous": {
+    "retirement_age": 45,
+    "current_year": 2023
+  },
+  "client_profile": {
+    "current_client_age": 28,
+    "years_to_retirement": 17,
+    "retirement_horizon_classification": "Long-Term",
+    "equity_exposure_status": "Yes",
+    "risk_appetite": "Medium to High"
+  },
+  "children_education_profiles_calculations": [
+    {
+      "child_identifier": "First Ahira",
+      "child_current_age": 4,
+      "ug_years_to_goal": 14,
+      "ug_horizon_classification": "Long-Term",
+      "pg_years_to_goal": 18,
+      "pg_horizon_classification": "Long-Term"
+    },
+    {
+      "child_identifier": "Second Hira",
+      "child_current_age": 3,
+      "ug_years_to_goal": 15,
+      "ug_horizon_classification": "Long-Term",
+      "pg_years_to_goal": 19,
+      "pg_horizon_classification": "Long-Term"
+    }
+  ],
+  "asset_liability_analysis": {
+    "total_asset_value_numeric": 3413359.0,
+    "total_liabilities_value_numeric": 680150.0,
+    "net_worth_numeric": 2733209.0,
+    "asset_classification_summary": {
+      "liquid_assets": 1183030.0,
+      "retirement_assets": 1080329.0,
+      "fixed_assets": 0.0
+    },
+    "asset_bucket_proportions": {
+      "liquid_assets": 34.66,
+      "retirement_assets": 31.65,
+      "fixed_assets": 0.0
+    },
+    "individual_asset_proportions": [
+      {
+        "asset_category": "provident_fund",
+        "value": 628729.0,
+        "proportion_percentage": 18.42
+      },
+      {
+        "asset_category": "public_provident_fund",
+        "value": 451600.0,
+        "proportion_percentage": 13.23
+      },
+      {
+        "asset_category": "fixed_deposit",
+        "value": 300000.0,
+        "proportion_percentage": 8.79
+      },
+      {
+        "asset_category": "direct_equity",
+        "value": 26936.0,
+        "proportion_percentage": 0.79
+      },
+      {
+        "asset_category": "mutual_funds",
+        "value": 525794.0,
+        "proportion_percentage": 15.4
+      },
+      {
+        "asset_category": "sukanya_education_scheme",
+        "value": 400000.0,
+        "proportion_percentage": 11.72
+      },
+      {
+        "asset_category": "education_scheme",
+        "value": 500000.0,
+        "proportion_percentage": 14.65
+      },
+      {
+        "asset_category": "cash_or_cash_at_bank",
+        "value": 277800.0,
+        "proportion_percentage": 8.14
+      },
+      {
+        "asset_category": "gold_etf",
+        "value": 2500.0,
+        "proportion_percentage": 0.07
+      },
+      {
+        "asset_category": "crypto",
+        "value": 50000.0,
+        "proportion_percentage": 1.46
+      },
+      {
+        "asset_category": "other_investments",
+        "value": 250000.0,
+        "proportion_percentage": 7.32
+      }
+    ]
+  },
+  "financial_goals": [
+    {
+      "goal_name": "Vacations",
+      "goal_type": "Other_vacations",
+      "target_year": 2024,
+      "time_remaining_years": 1,
+      "estimated_current_cost_input": 500000.0,
+      "assumed_inflation_rate_pa_for_fv": 0.06,
+      "estimated_future_cost_string": "Projected future cost for current cost 500000.00 at 6.0% annual inflation over 1 years: 530000.00",
+      "priority": "High",
+      "feasibility_notes": "Due to the short timeline and relatively low cost, this goal can be prioritized given existing liquid assets and income."
+    },
+    {
+      "goal_name": "Electronic Gadget Or Clothes",
+      "goal_type": "Other_electronic_gadget_or_clothes",
+      "target_year": 2024,
+      "time_remaining_years": 1,
+      "estimated_current_cost_input": 200000.0,
+      "assumed_inflation_rate_pa_for_fv": 0.06,
+      "estimated_future_cost_string": "Projected future cost for current cost 200000.00 at 6.0% annual inflation over 1 years: 212000.00",
+      "priority": "Moderate",
+      "feasibility_notes": "While achievable due to the short timeline and existing resources, it might be postponed for higher-priority objectives."
+    },
+    {
+      "goal_name": "Car",
+      "goal_type": "Other_car",
+      "target_year": 2027,
+      "time_remaining_years": 4,
+      "estimated_current_cost_input": 4500000.0,
+      "assumed_inflation_rate_pa_for_fv": 0.06,
+      "estimated_future_cost_string": "Projected future cost for current cost 4500000.00 at 6.0% annual inflation over 4 years: 5681146.32",
+      "priority": "Moderate",
+      "feasibility_notes": "Manageable within 4 years if discretionary spending is optimized and savings are boosted."
+    },
+    {
+      "goal_name": "Sibling Wedding",
+      "goal_type": "Other_sibling_wedding",
+      "target_year": 2028,
+      "time_remaining_years": 5,
+      "estimated_current_cost_input": 1500000.0,
+      "assumed_inflation_rate_pa_for_fv": 0.06,
+      "estimated_future_cost_string": "Projected future cost for current cost 1500000.00 at 6.0% annual inflation over 5 years: 2007338.37",
+      "priority": "Moderate",
+      "feasibility_notes": "Planning and steady contributions will help achieve this mid-term goal."
+    },
+    {
+      "goal_name": "coast_retirement",
+      "goal_type": "Retirement",
+      "target_year": 2033,
+      "time_remaining_years": 10,
+      "estimated_current_cost_input": 38000000.0,
+      "assumed_inflation_rate_pa_for_fv": 0.06,
+      "estimated_future_cost_string": "Projected future cost for current cost 38000000.00 at 6.0% annual inflation over 10 years: 68052212.47",
+      "priority": "High",
+      "feasibility_notes": "Long-term planning is essential to ensure a stable post-retirement life. Requires sustained investments."
+    },
+    {
+      "goal_name": "Undergraduation Of First Child",
+      "goal_type": "Other_undergraduation_of_first_child",
+      "target_year": 2037,
+      "time_remaining_years": 14,
+      "estimated_current_cost_input": 1500000.0,
+      "assumed_inflation_rate_pa_for_fv": 0.06,
+      "estimated_future_cost_string": "Projected future cost for current cost 1500000.00 at 6.0% annual inflation over 14 years: 3391355.93",
+      "priority": "Moderate",
+      "feasibility_notes": "Start building an earmarked fund to ensure adequate resources when needed."
+    },
+    {
+      "goal_name": "Undergraduation Of Second Child",
+      "goal_type": "Other_undergraduation_of_second_child",
+      "target_year": 2038,
+      "time_remaining_years": 15,
+      "estimated_current_cost_input": 1800000.0,
+      "assumed_inflation_rate_pa_for_fv": 0.06,
+      "estimated_future_cost_string": "Projected future cost for current cost 1800000.00 at 6.0% annual inflation over 15 years: 4313804.75",
+      "priority": "Moderate",
+      "feasibility_notes": "Regular contributions will help achieve this goal efficiently."
+    },
+    {
+      "goal_name": "Post Graduation Of First Child",
+      "goal_type": "Other_post_graduation_of_first_child",
+      "target_year": 2041,
+      "time_remaining_years": 18,
+      "estimated_current_cost_input": 2000000.0,
+      "assumed_inflation_rate_pa_for_fv": 0.06,
+      "estimated_future_cost_string": "Projected future cost for current cost 2000000.00 at 6.0% annual inflation over 18 years: 5708678.31",
+      "priority": "Low",
+      "feasibility_notes": "Lower current priority but requires long-term contribution strategies."
+    },
+    {
+      "goal_name": "Post Graduation Of Second Child",
+      "goal_type": "Other_post_graduation_of_second_child",
+      "target_year": 2042,
+      "time_remaining_years": 19,
+      "estimated_current_cost_input": 2200000.0,
+      "assumed_inflation_rate_pa_for_fv": 0.06,
+      "estimated_future_cost_string": "Projected future cost for current cost 2200000.00 at 6.0% annual inflation over 19 years: 6656318.90",
+      "priority": "Low",
+      "feasibility_notes": "Can be tackled alongside other educational goals as time progresses."
+    },
+    {
+      "goal_name": "Car 2",
+      "goal_type": "Other_car_2",
+      "target_year": 2033,
+      "time_remaining_years": 10,
+      "estimated_current_cost_input": 10000000.0,
+      "assumed_inflation_rate_pa_for_fv": 0.06,
+      "estimated_future_cost_string": "Projected future cost for current cost 10000000.00 at 6.0% annual inflation over 10 years: 17908476.97",
+      "priority": "Low",
+      "feasibility_notes": "Luxury purchase that can be deferred if financial constraints arise."
+    },
+    {
+      "goal_name": "Car 3",
+      "goal_type": "Other_car_3",
+      "target_year": 2035,
+      "time_remaining_years": 12,
+      "estimated_current_cost_input": 50000000.0,
+      "assumed_inflation_rate_pa_for_fv": 0.06,
+      "estimated_future_cost_string": "Projected future cost for current cost 50000000.00 at 6.0% annual inflation over 12 years: 100609823.59",
+      "priority": "Low",
+      "feasibility_notes": "High-cost luxury. Considered least urgent among all financial goals."
+    }
+  ],
+  "retirement_plan": null,
+  "education_plans": null,
+  "debt_management_plan": null,
+  "financial_health_audit": null
+}
