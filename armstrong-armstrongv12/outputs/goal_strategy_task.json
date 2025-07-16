@@ -1,0 +1,125 @@
+```json
+[
+  {
+    "goal_name": "coast_retirement",
+    "goal_type": "Retirement",
+    "target_year": 2033,
+    "time_remaining_years": 10,
+    "estimated_current_cost_input": 38000000.0,
+    "assumed_inflation_rate_pa_for_fv": 0.06,
+    "estimated_future_cost_string": "Projected future cost for current cost 38000000.00 at 6.0% annual inflation over 10 years: 68052212.47",
+    "priority": "High",
+    "feasibility_notes": "Retirement is critical and long-term. Currently underfunded with only 100,000 saved, requiring increased monthly contributions for feasibility."
+  },
+  {
+    "goal_name": "Undergraduation Of First Child",
+    "goal_type": "Education",
+    "target_year": 2037,
+    "time_remaining_years": 14,
+    "estimated_current_cost_input": 1500000.0,
+    "assumed_inflation_rate_pa_for_fv": 0.06,
+    "estimated_future_cost_string": "Projected future cost for current cost 1500000.00 at 6.0% annual inflation over 14 years: 3391355.93",
+    "priority": "High",
+    "feasibility_notes": "Key education goal for first child. Moderate funding already (100,000), but target future cost is significant; savings increase required."
+  },
+  {
+    "goal_name": "Undergraduation Of Second Child",
+    "goal_type": "Education",
+    "target_year": 2038,
+    "time_remaining_years": 15,
+    "estimated_current_cost_input": 1800000.0,
+    "assumed_inflation_rate_pa_for_fv": 0.06,
+    "estimated_future_cost_string": "Projected future cost for current cost 1800000.00 at 6.0% annual inflation over 15 years: 4313804.75",
+    "priority": "High",
+    "feasibility_notes": "Second child education goal. Partial funding in place (200,000). Current effort insufficient given future cost estimates."
+  },
+  {
+    "goal_name": "Post Graduation Of First Child",
+    "goal_type": "Education",
+    "target_year": 2041,
+    "time_remaining_years": 18,
+    "estimated_current_cost_input": 2000000.0,
+    "assumed_inflation_rate_pa_for_fv": 0.06,
+    "estimated_future_cost_string": "Projected future cost for current cost 2000000.00 at 6.0% annual inflation over 18 years: 5708678.31",
+    "priority": "Medium",
+    "feasibility_notes": "Post-graduation planning recommended but less urgent given the longer time horizon and lump sum starting contribution of 200,000."
+  },
+  {
+    "goal_name": "Post Graduation Of Second Child",
+    "goal_type": "Education",
+    "target_year": 2042,
+    "time_remaining_years": 19,
+    "estimated_current_cost_input": 2200000.0,
+    "assumed_inflation_rate_pa_for_fv": 0.06,
+    "estimated_future_cost_string": "Projected future cost for current cost 2200000.00 at 6.0% annual inflation over 19 years: 6656318.90",
+    "priority": "Medium",
+    "feasibility_notes": "Second child's post-graduation is critical but secondary to retirement and undergraduation goals due to horizon."
+  },
+  {
+    "goal_name": "Sibling Wedding",
+    "goal_type": "Other",
+    "target_year": 2028,
+    "time_remaining_years": 5,
+    "estimated_current_cost_input": 1500000.0,
+    "assumed_inflation_rate_pa_for_fv": 0.06,
+    "estimated_future_cost_string": "Projected future cost for current cost 1500000.00 at 6.0% annual inflation over 5 years: 2007338.37",
+    "priority": "Medium",
+    "feasibility_notes": "Moderately urgent, no contributions or savings allocated yet. Requires careful consideration against long-term goals."
+  },
+  {
+    "goal_name": "Vacations",
+    "goal_type": "Leisure",
+    "target_year": 2024,
+    "time_remaining_years": 1,
+    "estimated_current_cost_input": 500000.0,
+    "assumed_inflation_rate_pa_for_fv": 0.06,
+    "estimated_future_cost_string": "Projected future cost for current cost 500000.00 at 6.0% annual inflation over 1 years: 530000.00",
+    "priority": "Low",
+    "feasibility_notes": "Not essential. No existing savings; leisure spending should be secondary to education and retirement."
+  },
+  {
+    "goal_name": "Electronic Gadget Clothes",
+    "goal_type": "Leisure",
+    "target_year": 2024,
+    "time_remaining_years": 1,
+    "estimated_current_cost_input": 200000.0,
+    "assumed_inflation_rate_pa_for_fv": 0.06,
+    "estimated_future_cost_string": "Projected future cost for current cost 200000.00 at 6.0% annual inflation over 1 years: 212000.00",
+    "priority": "Low",
+    "feasibility_notes": "Discretionary goal. Limited need to prioritize given current liabilities and major goals."
+  },
+  {
+    "goal_name": "Car",
+    "goal_type": "Other",
+    "target_year": 2027,
+    "time_remaining_years": 4,
+    "estimated_current_cost_input": 4500000.0,
+    "assumed_inflation_rate_pa_for_fv": 0.06,
+    "estimated_future_cost_string": "Projected future cost for current cost 4500000.00 at 6.0% annual inflation over 4 years: 5681146.32",
+    "priority": "Low",
+    "feasibility_notes": "Car purchase can be deferred or scaled down. No savings have been allocated; current focus should be elsewhere."
+  },
+  {
+    "goal_name": "Car 2",
+    "goal_type": "Other",
+    "target_year": 2033,
+    "time_remaining_years": 10,
+    "estimated_current_cost_input": 10000000.0,
+    "assumed_inflation_rate_pa_for_fv": 0.06,
+    "estimated_future_cost_string": "Projected future cost for current cost 10000000.00 at 6.0% annual inflation over 10 years: 17908476.97",
+    "priority": "Low",
+    "feasibility_notes": "Deferred consumption goal, overlapping retirement timeline; unlikely to be immediately feasible."
+  },
+  {
+    "goal_name": "Car 3",
+    "goal_type": "Other",
+    "target_year": 2035,
+    "time_remaining_years": 12,
+    "estimated_current_cost_input": 50000000.0,
+    "assumed_inflation_rate_pa_for_fv": 0.06,
+    "estimated_future_cost_string": "Projected future cost for current cost 50000000.00 at 6.0% annual inflation over 12 years: 100609823.59",
+    "priority": "Low",
+    "feasibility_notes": "Expensive goal with long duration - lower feasibility absent extraordinary income increases or cost adjustments."
+  }
+]
+```
